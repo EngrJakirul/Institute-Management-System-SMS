@@ -1,0 +1,196 @@
+/*.banner-section {*/
+/*    height: 550px;*/
+/*    width: 100%;*/
+/*    background-image: url("../images/31214.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    background-position: center;*/
+
+/*}*/
+/*.banner-title {*/
+/*    font-size: 60px;*/
+/*    !*text-align: left;*!*/
+/*    padding: 15px;*/
+
+/*}*/
+
+/*.p-l-15 {*/
+/*    padding-left: 15px;*/
+/*}*/
+/*.border-redius-0 {*/
+/*    border-radius: 0;*/
+/*}*/
+
+/*.service-section {*/
+/*    background-color: #0e3e7f;*/
+/*}*/
+
+/*.f-s-40 {*/
+/*    font-size: 40px;*/
+/*}*/
+
+/*.capacity-card-img {*/
+/*    height: 300px;*/
+/*}*/
+
+/*.count-section{*/
+/*    background-image: url("../images/bg.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    background-position: center;*/
+/*}*/
+/*.mt-110 {*/
+/*    margin-top: 110px;*/
+/*}*/
+
+/*.exp-color {*/
+/*    color: #C4D4EA;*/
+/*}*/
+
+/*.about-title {*/
+/*    font-size: 35px;*/
+/*}*/
+
+/*.box {*/
+/*    height: 2px;*/
+/*    width: 50px;*/
+/*    background: #0c63e4;*/
+/*    margin-bottom: 25px;*/
+
+
+/*}*/
+
+/*.about-card-shadow {*/
+/*    box-shadow: 0px 0px 14px 2px rgba(168,168,168,0.74);*/
+/*    -webkit-box-shadow: 0px 0px 14px 2px rgba(168,168,168,0.74);*/
+/*    -moz-box-shadow: 0px 0px 14px 2px rgba(168,168,168,0.74);*/
+/*}*/
+
+/*.team-section {*/
+/*    background-image: url("../images/Untitled1.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    background-position: center;*/
+/*}*/
+
+/*.team-member-one {*/
+/*    background-image: url("../images/004.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    height: 450px;*/
+/*}*/
+
+/*.team-member-two {*/
+/*    background-image: url("../images/011.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    height: 450px;*/
+/*}*/
+
+/*.team-member-three {*/
+/*    background-image: url("../images/003.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    height: 450px;*/
+/*}*/
+/*.btn-blue {*/
+/*    background-color: #143f7d;*/
+/*}*/
+/*.contact-right-image {*/
+/*    height: 530px;*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    width: 100%;*/
+/*}*/
+
+/*.big-footer-section {*/
+/*    background-color: #143f7d;*/
+/*}*/
+
+
+/*.top-header {*/
+/*    background-color: yellow;*/
+/*    height: 500px;*/
+/*}*/
+
+*{
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #484848;
+    font-family: 'futura_ltbold', sans-serif;
+}
+
+
+.menu-header-area {
+    background-color: gray;
+}
+
+.menu-area ul li {
+    color: white;
+}
+
+.slider-area {
+    background-image: url("../images/slider_img.jpg");
+    min-height: 550px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.my-caption h4 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+.my-caption h1 {
+    font-size: 70px;
+    line-height: 72px;
+}
+
+.my-caption p{
+    font-size: 23px;
+    line-height: 28px;
+}
+
+.my-caption a {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.welcome-area h2 {
+    font-size: 40px;
+    margin: 80px 0 20px;
+    color: #ffcb0f;
+}
+.welcome-back-image{
+    position: relative;
+}
+
+.welcome-area-image {
+    position: absolute;
+    top: -68px;
+    right: 11%;
+}
+.welcome-area {
+    padding-top: 87px;
+}
+.round {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+
+.service-area h2 {
+    text-align: center;
+    margin: 40px 0 30px 0px;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
